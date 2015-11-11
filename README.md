@@ -8,9 +8,7 @@ The code is dirty and can really be optimized but still its a working version.
 To build & run the projects for the book:
 --------------------------------------------------------------------------------
 - Download Android OpenCV from "http://opencv.org/"
-
 - Extract the downloaded archive into the project's directory
-
 - Or set the correct inclusion path in Android.mk file
 
 --------------------------------------------------------------------------------
