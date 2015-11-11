@@ -3,7 +3,9 @@ Mastering OpenCV with Practical Computer Vision Projects
 ==============================================================================
 Android ported source-code from the book.
 The ported example is - Marker-based Augmented Reality on iPhone or iPad.
-The code is dirty and can really be optimized but still its a working version.
+
+#!!!The source code is dirty and can really be optimized. But still its a working version!!!
+
 --------------------------------------------------------------------------------
 To build & run the projects for the book:
 --------------------------------------------------------------------------------
