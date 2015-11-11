@@ -1,14 +1,33 @@
-# MarkerBasedAR
+==============================================================================
+Mastering OpenCV with Practical Computer Vision Projects
+==============================================================================
+Android ported source-code from the book.
+The ported example is - Marker-based Augmented Reality on iPhone or iPad.
+The code is dirty and can really be optimized but still its a working version.
+--------------------------------------------------------------------------------
+To build & run the projects for the book:
+--------------------------------------------------------------------------------
+- Download Android OpenCV from "http://opencv.org/"
 
-Mastering OpenCV with Practical Computer Vision Projects 
+- Extract the downloaded archive into the project's directory
 
-This is the Android ported implementation of an marker based augmented reality app from the book
+- Or set the correct inclusion path in Android.mk file
 
-The original article describing the internals for iOS platform is available here
-https://www.packtpub.com/books/content/marker-based-augmented-reality-iphone-or-ipad
+--------------------------------------------------------------------------------
+Screenshots:
+--------------------------------------------------------------------------------
+- Marker-based Augmented Reality on Android:
+![Marker-based Augmented Reality on Android](https://raw.githubusercontent.com/deimusmeister/MarkerBasedAR/master/screenshot.png)
 
-The resources from book are here
-https://github.com/MasteringOpenCV/code
+--------------------------------------------------------------------------------
+Full source-code for the book.
+--------------------------------------------------------------------------------
 
+    Source-Code:    https://github.com/MasteringOpenCV/code
+    Book:           http://www.packtpub.com/cool-projects-with-opencv/book
+    Copyright:      Packt Publishing 2012.
+
+
+--------------------------------------------------------------------------------
 
 
