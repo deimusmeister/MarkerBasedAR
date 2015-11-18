@@ -7,7 +7,7 @@ The ported example is - Marker-based Augmented Reality on iPhone or iPad.
 #!!!The source code is dirty and can really be optimized. But still its a working version!!!
 
 --------------------------------------------------------------------------------
-To build & run the projects for the book:
+To build & run the project
 --------------------------------------------------------------------------------
 - Download Android OpenCV from "http://opencv.org/"
 - Extract the downloaded archive into the project's directory
