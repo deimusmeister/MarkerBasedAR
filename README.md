@@ -1,4 +1,3 @@
-==============================================================================
 Mastering OpenCV with Practical Computer Vision Projects
 ==============================================================================
 Android ported source-code from the book.
