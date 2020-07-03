@@ -15,7 +15,7 @@ To build & run the project
 --------------------------------------------------------------------------------
 Screenshots:
 --------------------------------------------------------------------------------
-- Marker-based Augmented Reality on Android:
+- Marker-based Augmented Reality on Android:  
 ![Marker-based Augmented Reality on Android](https://raw.githubusercontent.com/deimusmeister/MarkerBasedAR/master/screenshot.png)
 
 --------------------------------------------------------------------------------
